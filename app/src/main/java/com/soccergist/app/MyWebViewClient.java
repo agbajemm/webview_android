@@ -1,4 +1,4 @@
-package com.greenrepublic.app;
+package com.soccergist.app;
 
 import android.content.Intent;
 import android.net.Uri;

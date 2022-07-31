@@ -14,7 +14,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "com.greenrepublic.app"
+        applicationId "com.soccergist.app"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 2

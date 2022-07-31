@@ -1,4 +1,4 @@
-package com.greenrepublic.app;
+package com.soccergist.app;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

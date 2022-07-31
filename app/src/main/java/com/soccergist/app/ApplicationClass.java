@@ -1,4 +1,4 @@
-package com.greenrepublic.app;
+package com.soccergist.app;
 
 import android.app.Application;
 import com.onesignal.OneSignal;
